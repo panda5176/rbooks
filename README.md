@@ -4,37 +4,37 @@ R Books Exercises
 ### Beginners
 |Title|Link|Korean|Category|
 |---|---|---|---|
-|R for Data Science (2e)|https://r4ds.hadley.nz/|http://www.yes24.com/Product/Goods/67856488 (1e)|`Introduction` `Overview` `Tidyverse`|
-|Hands-On Programming with R|https://rstudio-education.github.io/hopr/|http://www.yes24.com/Product/Goods/29289813|`Introduction` `Programming` `Project`|
-|R Cookbook, 2nd Edition|https://rc2e.com/|http://www.yes24.com/Product/Goods/101482119|`Introduction` `Overview`|
+|R for Data Science (2e)|`Introduction` `Overview` `Tidyverse`|https://r4ds.hadley.nz/|http://www.yes24.com/Product/Goods/67856488 (1e)|
+|Hands-On Programming with R|`Introduction` `Programming`|https://rstudio-education.github.io/hopr/|http://www.yes24.com/Product/Goods/29289813|
+|R Cookbook, 2nd Edition|`Introduction` `Overview`|https://rc2e.com/|http://www.yes24.com/Product/Goods/101482119|
 
 ### Intermediates
 |Title|Link|Korean|Category|
 |---|---|---|---|
-|R Graphics Cookbook, 2nd edition|https://r-graphics.org/|http://www.yes24.com/Product/Goods/11024010|`Introduction` `Visualization`|
-|R Packages (2e)|https://r-pkgs.org/|http://www.yes24.com/Product/Goods/73429473 (1e)|`Production`|
-|Efficient R programming|https://csgillespie.github.io/efficientR/|http://www.yes24.com/Product/Goods/61358257|`Programming` `Production` `Efficiency`|
-|Mastering Shiny|https://mastering-shiny.org/|http://www.yes24.com/Product/Goods/116598818|`Shiny` `Production`|
-|R Markdown: The Definitive Guide|https://bookdown.org/yihui/rmarkdown/||`Markdown` `Production`|
-|Applied Statistics with R|https://book.stat420.org/||`Introduction` `Statistics`|
-|Tidy Modeling with R|https://www.tmwr.org/||`MachineLearning` `Tidyverse`|
+|R Graphics Cookbook, 2nd edition|`Introduction` `Visualization`|https://r-graphics.org/|http://www.yes24.com/Product/Goods/11024010|
+|R Packages (2e)|`Production`|https://r-pkgs.org/|http://www.yes24.com/Product/Goods/73429473 (1e)|
+|Efficient R programming|`Programming` `Production` `Efficiency`|https://csgillespie.github.io/efficientR/|http://www.yes24.com/Product/Goods/61358257|
+|Mastering Shiny|`Shiny` `Production`|https://mastering-shiny.org/|http://www.yes24.com/Product/Goods/116598818|
+|R Markdown: The Definitive Guide|`Markdown` `Production`|https://bookdown.org/yihui/rmarkdown/||
+|Applied Statistics with R|`Introduction` `Statistics`|https://book.stat420.org/||
+|Tidy Modeling with R|`MachineLearning` `Tidyverse`|https://www.tmwr.org/||
 
 ### Experts
 |Title|Link|Korean|Category|
 |---|---|---|---|
-|Advanced R|https://adv-r.hadley.nz/|http://www.yes24.com/Product/Goods/60530267 (1e)|`Programming` `Efficiency`|
-|Beyond Multiple Linear Regression|https://bookdown.org/roback/bookdown-BeyondMLR/||`Statistics` `Tidyverse`|
-|Forecasting: Principles and Practice (2nd ed)|https://otexts.com/fpp2/|https://otexts.com/fppkr/ (free)|`Statistics` `Forecasting`|
-|Fundamentals of Data Visualization|https://clauswilke.com/dataviz/|http://www.yes24.com/Product/Goods/87631760|`Statistics` `Visualization`|
-|Engineering Production-Grade Shiny Apps|https://engineering-shiny.org/||`Shiny` `Production` `Efficiency`|
+|Advanced R|`Programming` `Efficiency`|https://adv-r.hadley.nz/|http://www.yes24.com/Product/Goods/60530267 (1e)|
+|Beyond Multiple Linear Regression|`Statistics` `Tidyverse`|https://bookdown.org/roback/bookdown-BeyondMLR/||
+|Forecasting: Principles and Practice (2nd ed)|`Statistics` `Forecasting`|https://otexts.com/fpp2/|https://otexts.com/fppkr/ (free)|
+|Fundamentals of Data Visualization|`Statistics` `Visualization`|https://clauswilke.com/dataviz/|http://www.yes24.com/Product/Goods/87631760|
+|Engineering Production-Grade Shiny Apps|`Shiny` `Production` `Efficiency`|https://engineering-shiny.org/||
 
 ### Special Fields
 |Title|Link|Korean|Category|
 |---|---|---|---|
-|TensorFlow for R|https://tensorflow.rstudio.com/||`MachineLearning` `DeepLearning`|
-|Text Mining with R|https://www.tidytextmining.com/|http://www.yes24.com/Product/Goods/73782813|`TextMining` `Tidyverse`|
-|Supervised Machine Learning for Text Analysis in R|https://smltar.com/||`TextMining` `Tidyverse` `MachineLearning` `DeepLearning`|
-|Doing Meta-Analysis with R|https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/||`MetaAnalysis` `Statistics`|
-|Geocomputation with R|https://geocompr.robinlovelace.net/||`GeoComputation`|
-|Data Analysis in Medicine and Health using R|https://bookdown.org/drki_musa/dataanalysis/||`Introduction` `Biology` `Statistics`|
-|Computational Genomics with R|https://compgenomr.github.io/book/||`Introduction` `Biology` `Statistics`|
+|TensorFlow for R|`MachineLearning` `DeepLearning`|https://tensorflow.rstudio.com/||
+|Text Mining with R|`TextMining` `Tidyverse`|https://www.tidytextmining.com/|http://www.yes24.com/Product/Goods/73782813|
+|Supervised Machine Learning for Text Analysis in R|`TextMining` `Tidyverse` `MachineLearning` `DeepLearning`|https://smltar.com/||
+|Doing Meta-Analysis with R|`MetaAnalysis` `Statistics`|https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/||
+|Geocomputation with R|`GeoComputation`|https://geocompr.robinlovelace.net/||
+|Data Analysis in Medicine and Health using R|`Introduction` `Biology` `Statistics`|https://bookdown.org/drki_musa/dataanalysis/||
+|Computational Genomics with R|`Introduction` `Biology` `Statistics`|https://compgenomr.github.io/book/||
