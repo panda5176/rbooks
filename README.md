@@ -29,6 +29,8 @@ R Books Exercises
 |Engineering Production-Grade Shiny Apps|https://engineering-shiny.org/||`Shiny` `Production` `Efficiency`|
 
 ### Special Fields
+|Title|Link|Korean|Category|
+|---|---|---|---|
 |TensorFlow for R|https://tensorflow.rstudio.com/||`MachineLearning` `DeepLearning`|
 |Text Mining with R|https://www.tidytextmining.com/|http://www.yes24.com/Product/Goods/73782813|`TextMining` `Tidyverse`|
 |Supervised Machine Learning for Text Analysis in R|https://smltar.com/||`TextMining` `Tidyverse` `MachineLearning` `DeepLearning`|
