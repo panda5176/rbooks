@@ -34,3 +34,7 @@ beer2 <- window(ausbeer, start = 1992)
 gglagplot(beer2)
 
 ggAcf(beer2)
+
+aelec <- window(elec, start = 1980)
+autoplot(aelec) + xlab("Year") + ylab("GWh")
+ggAcf(aelec, lag = 48)
