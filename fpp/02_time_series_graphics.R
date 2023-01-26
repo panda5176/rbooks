@@ -32,3 +32,5 @@ ggplot(as.data.frame(elecdemand), aes(x = Temperature, y = Demand)) +
 
 beer2 <- window(ausbeer, start = 1992)
 gglagplot(beer2)
+
+ggAcf(beer2)
